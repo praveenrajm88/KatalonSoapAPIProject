@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>C%%Users%praveenraj_maregowda%Katalon Studio%SampleSoapAPITestingProject%SampleSoapAPITestingProject.prj</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>kat-4106462464711852929.groovy</name>
+			<type>1</type>
+			<location>C:/Users/PRAVEE~1/AppData/Local/Temp/Katalon/Web Services/kat-4106462464711852929.groovy</location>
+		</link>
+		<link>
+			<name>kat-4581744196434167.groovy</name>
+			<type>1</type>
+			<location>C:/Users/PRAVEE~1/AppData/Local/Temp/Katalon/Web Services/kat-4581744196434167.groovy</location>
+		</link>
+		<link>
+			<name>kat-8793697130934829365.groovy</name>
+			<type>1</type>
+			<location>C:/Users/PRAVEE~1/AppData/Local/Temp/Katalon/Web Services/kat-8793697130934829365.groovy</location>
+		</link>
+		<link>
+			<name>kat-9106818222219401760.groovy</name>
+			<type>1</type>
+			<location>C:/Users/PRAVEE~1/AppData/Local/Temp/Katalon/Web Services/kat-9106818222219401760.groovy</location>
+		</link>
+	</linkedResources>
+	<filteredResources>
+		<filter>
+			<id>1586800849929</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1586800849944</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>

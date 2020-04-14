@@ -1,0 +1,8 @@
+1
+00:00:00,823 --> 00:00:00,828
+1. response1 = sendRequest(findTestObject("CounrtyInfoSOAPService/GetCapital", ["CountryCode":CountryCode]))
+
+2
+00:00:04,741 --> 00:00:04,742
+5. verifyElementText(response1, "CapitalCityResponse.CapitalCityResult", Capital)
+
